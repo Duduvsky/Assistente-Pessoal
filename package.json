@@ -10,8 +10,10 @@
   "author": "Matheus de Azevedo",
   "lisence": "ISC",
   "dependencies": {
+    "assistente-pessoal": "file:",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "multer": "^1.4.5-lts.2",
     "pg": "^8.14.1"
   }
 }
